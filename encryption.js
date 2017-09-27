@@ -2,6 +2,8 @@ const {decrypt, encrypt, encryptA, encryptB} = require('./noLooking');
 
 // ======= Level 1 =========
 
+//Place your guess here!
+
 console.log(encryptB(''));
 
 //Desired ouput = imronwdems
